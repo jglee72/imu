@@ -15,3 +15,7 @@ The original sole unit is owned by a client, although the project is full open s
 
 ## Potential IMU Future
 The IMU in a box as a standalone piece of test equipment which can easily be mimiced by high-end and expensive IMU devices on the market. This was an exellent exercise in adapting a COTs 9-DOF projext board to any Raspberry Pi module, and likely to any microprocessor.  Extensive Research was also involved in the reading and interpreting of Inertia data from this complex chipset.  
+
+
+# More to Come
+I am in search of the RPi code and will add once available.  This is where the magic happens and all maths are done before sending off on UDP packages on the 
